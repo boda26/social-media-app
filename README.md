@@ -1,5 +1,5 @@
 # blog-app
-A blog app to share your ideas with others! You are able to register an account, login, create a post, liking and leaving comments to other posts.\
+A blog app to share your ideas with others! You are able to register an account, login, create a post, liking and leaving comments to other posts.
 
 Inside backend folder, run
 ```
