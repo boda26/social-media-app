@@ -11,7 +11,7 @@ Inside the frontend folder, run
 ```
 yarn start
 ```
-to start the backend.
+to start the frontend.
 
 
 ### Examples
