@@ -1,5 +1,14 @@
-# blog-app
-## A blog app to share your ideas with others! You are able to register an account, login, create a post, liking and leaving comments to other posts.
+## Introduction
+This project is a web-based application for creating and managing personal blogs. The application allows users to create their own account, create and edit blog posts, and view and comment on posts created by other users. The application is built using the Node.js web framework and utilizes MongoDB database to store user and blog post data.
+The application features a clean and modern user interface built via React, with responsive design that adapts to different screen sizes and devices. Users can create blog posts with rich text formatting and upload images to their posts. The application also includes features such as an admin account for management, user authentication via email, and pagination for blog posts.
+This project is a great platform to share ideas and thoughts with friends. It is also an ideal place to record important days and moments for individuals.
+
+## How to use
+Inside the backend and frontend folder, run
+```
+yarn install
+```
+to install necessary dependencies.
 
 Inside backend folder, run
 ```
@@ -14,7 +23,7 @@ yarn start
 to start the frontend.
 
 
-### Examples
+## Examples
 <img width="1249" alt="image" src="https://user-images.githubusercontent.com/54991825/175698469-1a8e2793-8cf8-4268-8b35-b40d2bdd501b.png">
 
 #### Start by registering an account right now!
