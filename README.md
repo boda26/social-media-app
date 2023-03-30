@@ -1,6 +1,6 @@
 ## Introduction
-This project is a web-based application for creating and managing personal blogs. The application allows users to create their own account, create and edit blog posts, and view and comment on posts created by other users. The application is built using the Node.js web framework and utilizes MongoDB database to store user and blog post data.
-The application features a clean and modern user interface built via React, with responsive design that adapts to different screen sizes and devices. Users can create blog posts with rich text formatting and upload images to their posts. The application also includes features such as an admin account for management, user authentication via email, and pagination for blog posts.
+This project is a web-based application for creating and managing personal blogs. The application allows users to create their own account, create and edit blog posts, and view and comment on posts created by other users. The application is built using the Node.js web framework and utilizes MongoDB database to store user and blog post data.\
+The application features a clean and modern user interface built via React, with responsive design that adapts to different screen sizes and devices. Users can create blog posts with rich text formatting and upload images to their posts. The application also includes features such as an admin account for management, user authentication via email, and pagination for blog posts.\
 This project is a great platform to share ideas and thoughts with friends. It is also an ideal place to record important days and moments for individuals.
 
 ## How to use
